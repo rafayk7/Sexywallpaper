@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fc33c85-60ef-4030-aaa9-369eb4f7c4aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SetWallpaper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-100.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-101.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-102.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-103.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-104.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-105.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-106.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-107.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-108.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-109.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-110.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-111.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-112.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-113.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-114.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-115.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-116.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-117.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-118.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-119.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-120.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-121.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-122.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-123.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-124.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-125.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-126.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-127.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-128.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-129.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-130.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-131.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-132.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-133.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-134.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-135.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-136.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-137.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-138.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-139.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-140.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-141.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-142.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-143.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-144.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-145.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-146.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-147.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-148.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-149.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-150.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-151.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-152.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-153.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-154.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-155.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-156.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-157.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-158.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-159.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-160.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-161.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-162.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-163.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-164.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-165.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-166.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-167.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-168.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-169.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-170.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-171.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-172.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-173.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-174.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-175.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-176.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-177.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-178.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-179.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-180.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-181.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-182.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-183.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-184.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-185.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-186.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-187.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-188.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-189.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-190.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-191.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-192.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-193.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-194.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-195.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-196.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-197.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-198.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-199.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-200.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-201.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-202.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-203.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-204.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-205.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-206.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-207.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-208.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-209.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-210.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-211.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-212.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-213.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-214.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-215.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-72.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-73.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-74.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-75.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-76.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-77.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-78.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-79.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-80.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-81.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-82.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-83.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-84.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-85.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-86.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-87.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-88.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-89.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-90.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-91.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-92.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-93.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-94.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-95.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-96.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-97.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-98.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frames/good.gif-99.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runwallpaper.py" beforeDir="false" afterPath="$PROJECT_DIR$/runwallpaper.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runwallpaper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SetWallpaper.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/good.gif">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frames/frame1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frames/frame15.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frames/frame14.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frames/frame13.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frames/frame18.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frames/frame17.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SetWallpaper.py" />
+        <option value="$PROJECT_DIR$/runwallpaper.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Sexywallpaper.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-194" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Sexywallpaper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sexywallpaper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sexywallpaper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sexywallpaper" type="462c0819:PsiDirectoryNode" />
+              <item name="frames" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="runwallpaper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sexywallpaper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runwallpaper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runwallpaper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc33c85-60ef-4030-aaa9-369eb4f7c4aa" name="Default Changelist" comment="" />
+      <created>1562617762388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562617762388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-194" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame215.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame22.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame34.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame37.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame45.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame55.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame66.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame75.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame84.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame15.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame14.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SetWallpaper.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames/frame178.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runwallpaper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
